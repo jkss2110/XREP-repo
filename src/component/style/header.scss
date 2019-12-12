@@ -1,0 +1,20 @@
+.xrepSubMenu>span{
+    border: 1px;
+    border-style: groove;
+    border-radius: 7px;
+    font-size: smaller;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.3rem;
+    margin-left: 1.5rem;
+    cursor: pointer;
+    background-color: #e9ecefb3;
+}
+.xrepSubMenu>span:hover{
+    background-color: #b6c9dedb;
+}
+.xrepSubMenu{
+    height: 3rem;
+    display: flex;
+    padding: 0.5rem;
+}
